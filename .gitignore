@@ -1,0 +1,9 @@
+db/conexao.php
+img/
+videos/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
