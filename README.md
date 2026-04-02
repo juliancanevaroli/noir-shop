@@ -173,4 +173,4 @@ O arquivo `db/conexao.php` contém credenciais do banco e **não é versionado**
 
 Desenvolvido por Julia N. Canevaroli — segundo projeto de portfólio.
 
-[![GitHub](https://img.shields.io/badge/GitHub-juliancanevaroli-181717?style=flat&logo=github)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-juliancanevaroli-181717?style=flat&logo=github)](https://github.com/juliancanevaroli)
